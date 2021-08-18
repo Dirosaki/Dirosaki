@@ -47,7 +47,7 @@ Sou Desenvolvedor Front-End com React e apaixonado por tecnologia.
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dirosaki&layout=compact&theme=dark"/>
 </div>
 
 ![Snake animation](https://github.com/dirosaki/dirosaki/blob/output/github-contribution-grid-snake.svg)
